@@ -1,0 +1,26 @@
+
+  DHTSensor.h - Biblioteka za čitanje temperature i vlage s DHT senzora.
+  Autor: Radenko Bogdanovic
+  Datum: 10.06.2023.
+  Verzija: 1.0
+  Opis: Ova biblioteka omogućuje čitanje temperature i vlage s DHT senzora na Arduino platformi.
+  Licenca: MIT Licenca
+
+  MIT Licenca (X11 Licenca)
+
+  © 2023 Radenko Bogdanovic
+
+  Sva prava pridržana.
+
+  Dozvoljava se besplatno korištenje, kopiranje, izmjena, objavljivanje, distribucija,
+  podizanje tužbi i/ili prodaja primjeraka ove biblioteke, uz poštivanje sljedećih uslova:
+
+  - Gore navedni copyright notice i ovaj notice o dozvoli moraju biti uključeni u sve kopije ili
+    značajne dijelove ove biblioteke.
+  - Ova biblioteka se pruža "kakva jest", bez ikakvih garancija, izraženih ili implicitnih,
+    uključujući, ali ne ograničavajući se na implicitne garancije tržišne vrijednosti,
+    prikladnosti za određenu svrhu i nenarušavanja autorskih prava. Autori ili nositelji autorskih
+    prava neće biti odgovorni za bilo kakvu tvrdnju, štetu ili drugu odgovornost,
+    bilo u ugovoru, deliktu ili na drugi način, proizašlu iz, ili u vezi s
+    bibliotekom ili korištenjem ili drugim poslovanjem u biblioteci.
+
